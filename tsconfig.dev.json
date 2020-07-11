@@ -6,6 +6,6 @@
     "outDir": "build-dev"
   },
   "files": [
-    "src/dev.ts"
+    "src/dave.ts"
   ]
 }
